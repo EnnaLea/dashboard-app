@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
 
 # To try the application:
-link: dashboard-app-1a496.web.app
+link: (https://dashboard-app-1a496.web.app)
 
 ## Development server
 
